@@ -28,28 +28,28 @@ body{
 
 main{
     overflow: hidden;
-    margin: 20px;
+    margin: 1.25rem;
 }
 
 header img{
-    padding: 20px;
-    width: 200px;
+    padding: 1.25rem;
+    width: 12.5rem;
 }
 
 section#ilustracao img{
     width: 100%;
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 section#texto{
-    padding: 20px;
+    padding: 1.25rem;
     text-align: center;
 }
 
 section#texto h1{
     font-family: var(--titulos);
     font-size: 1.7rem;
-    padding: 10px 10px;
+    padding: 0.625rem 0.625rem;
 }
 
 section#texto p{
@@ -58,18 +58,18 @@ section#texto p{
 
 div#botao{
     text-align: center;
-    margin-top: 25px;
-    margin-bottom: 50px;
+    margin-top: 1.5625rem;
+    margin-bottom: 3.125rem;
 }
 
 div#botao a{
     text-decoration: none;
     color: var(--violet);
     background-color: white;
-    padding: 10px 70px;
-    border-radius: 50px;
-    font-size: .9rem;
-    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.527);
+    padding: 0.625rem 4.375rem;
+    border-radius: 3.125rem;
+    font-size: 14.4px;
+    box-shadow: 0.125rem 0.125rem 0.4375rem rgba(0, 0, 0, 0.527);
 }
 
 div#botao a:hover{
@@ -83,22 +83,22 @@ footer {
 
 footer span{
     color: white;
-    padding: 10px;
-    border: 1px solid white;
+    padding: 0.625rem;
+    border: 0.0625rem solid white;
     border-radius: 50%;
-    margin: 3px;
+    margin: 0.1875rem;
 }
 
 footer span.fa-facebook-f{
-    padding: 10px 13px;
+    padding: 0.625rem 0.8125rem;
 }
 
 footer span.fa-instagram{
-    padding: 10px 11.5px;
+    padding: 0.625rem 0.7188rem;
 }
 
 footer span:hover{
     color: var(--soft-magenta);
-    border: 1px solid var(--soft-magenta);
+    border: 0.0625rem solid var(--soft-magenta);
 }
 
