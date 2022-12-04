@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-master--ceijP5i3D](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-master--ceijP5i3D)
 - Live Site URL: [https://isabellatressino.github.io/huddle-landing-page-with-single-introductory-section-master/](https://isabellatressino.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
